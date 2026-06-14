@@ -7,9 +7,16 @@
 ### 🚀 Front-End Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Astro+%7C+Node.js;Building+modern+web+apps;Always+learning+new+things" />
-<img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark" />
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+---
+
+### 💬 Live Activity
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark&bg=1a1b27&borderRadius=10px" height="160"/>
+
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160"/>
+</p>
 
 ---
 
@@ -26,22 +33,6 @@
 <a href="https://open.spotify.com/user/SPOTIFY_ID">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
-
----
-
-### 🎧 Now Playing (Spotify)
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
-</p>
-
----
-
-### 💬 Discord Status
-
-<img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark&bg=1a1b27&borderRadius=10px" />
 
 ---
 
@@ -96,6 +87,12 @@
 - Learning backend (Node.js)  
 - Working on real projects (Femida, Discord bots)
 
+---
 
+### 🧩 Fun Section
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+
+---
 
 </div>
