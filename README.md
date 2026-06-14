@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Oleksandr
 
+<img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="140" style="border-radius: 50%" />
+
 ### 🚀 Front-End Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Astro+%7C+Node.js;Building+modern+web+apps;Always+learning+new+things" />
@@ -24,14 +26,32 @@
 
 ---
 
-### ⚡ About Me
+### 🎧 Now Playing (Spotify)
 
-</div>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8B5CF6&bar_color_cover=true" />
+
+---
+
+### 💬 Discord Status
+
+<img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark&bg=1a1b27&borderRadius=10px" />
+
+---
+
+### ⚡ About Me
 
 - 💻 Front-End Developer focused on React & Astro  
 - 🧠 Building real-world projects (Discord bots, web apps)  
 - 🎯 Improving daily and learning Full-Stack development  
 - 📍 Started coding: **2024**
+
+---
+
+### ⏳ Coding Journey
+
+🟣 Time since I started coding:
+
+<img src="https://readme-timer.vercel.app/api?startDate=2024-01-01&label=Days%20Coding" />
 
 ---
 
@@ -71,17 +91,11 @@
 
 ---
 
-### 📌 Projects
-
-- 🤖 **Femida Discord Bot** – moderation & automation system  
-- 🌐 **Portfolio Website** – personal developer site  
-- ⚙️ More projects coming soon...
-
----
-
 ### 🧩 Fun Section
 
 <img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark" />
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 
 ---
 
