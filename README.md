@@ -1,8 +1,56 @@
 <div align="center">
 
+<style>
+  /* ===== RESET ===== */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+
+  /* ===== MAIN CONTAINER ===== */
+  .wrapper {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  /* ===== TITLE ===== */
+  h1 {
+    font-size: 34px;
+    font-weight: 800;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    opacity: 0.8;
+    font-weight: 500;
+  }
+
+  /* ===== CARD STYLE (for images) ===== */
+  img {
+    border-radius: 12px;
+  }
+
+  /* ===== BADGE WRAPPER ===== */
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+  }
+
+</style>
+
+<div class="wrapper">
+
 # 👋 Hey, I'm Oleksandr1shkin
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDRheGdlNmt6c2h6YW85dGFmamNhY2F6MW04bDB3bDV6bTkwdmVqcyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/pj6kX3c8bRijBrl6yR/giphy.gif" width="140" style="border-radius: 50%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDRheGdlNmt6c2h6YW85dGFmamNhY2F6MW04bDB3bDV6bTkwdmVqcyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/pj6kX3c8bRijBrl6yR/giphy.gif" width="140" />
 
 ### 🚀 Front-End Developer
 
@@ -10,39 +58,35 @@
 
 ---
 
-### 💬 Live Activity
+## 💬 Live Activity
 
-<p align="center">
-<img 
-  src="https://lanyard.cnrad.dev/api/776490875659354143?theme=dark&animated=true&idleMessage=Coding..."
-/>
+<img src="https://lanyard.cnrad.dev/api/776490875659354143?theme=dark&animated=true&idleMessage=Coding..." width="420"/>
 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160"/>
-</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160"/>
 
+---
 
-
-### ⚡ About Me
+## ⚡ About Me
 
 - 💻 Front-End Developer focused on React, JS  
 - 🧠 Building real-world projects (Discord bots, web apps)  
 - 🎯 Improving daily and learning Front-End development  
 - 📍 Started coding: **2024**
 
+---
 
+## 🧠 Tech Stack
 
-### 🧠 Tech Stack
+<div class="badges">
 
-
-
-<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+
+</div>
 
 ---
 
@@ -52,9 +96,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandrishkin&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
-
-
-
-
-
 </div>
