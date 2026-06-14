@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Oleksandr1shkin
 
-<img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="140" style="border-radius: 50%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDRheGdlNmt6c2h6YW85dGFmamNhY2F6MW04bDB3bDV6bTkwdmVqcyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/pj6kX3c8bRijBrl6yR/giphy.gif" width="140" style="border-radius: 50%" />
 
 ### 🚀 Front-End Developer
 
