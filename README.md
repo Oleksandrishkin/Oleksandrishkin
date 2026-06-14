@@ -12,7 +12,7 @@
   <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;" />
 
   <!-- LIVE ACTIVITY -->
-  <h3 style="margin-bottom: 20px;">💬 Live Activity</h3>
+  <h3 style="margin-bottom: 20px;">🎵 Live Activity ⚡</h3>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
     <img src="https://lanyard.cnrad.dev/api/776490875659354143?theme=dark&animated=true&idleMessage=Coding..." alt="Discord Activity" style="border-radius: 8px;" />
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160" alt="Spotify" style="border-radius: 8px;" />
@@ -20,17 +20,17 @@
 
   <!-- ABOUT ME -->
   <div align="left" style="max-width: 600px; margin: 0 auto 30px auto; padding: 0 15px;">
-    <h3 style="text-align: center; margin-bottom: 15px;">⚡ About Me</h3>
-    <ul style="list-style-type: '✨ '; padding-left: 20px; line-height: 1.8;">
-      <li>Front-End Developer focused on <b>React</b> and <b>JavaScript</b></li>
-      <li>Building real-world projects (Discord bots, web apps)</li>
-      <li>Improving daily and learning Front-End development</li>
-      <li>Started coding: <mark style="background: rgba(139, 92, 246, 0.2); color: #a78bfa; padding: 2px 6px; border-radius: 4px;"><b>2024</b></mark></li>
+    <h3 style="text-align: center; margin-bottom: 15px;">🔥 About Me 🛠️</h3>
+    <ul style="list-style: none; padding-left: 0; line-height: 2;">
+      <li style="margin-bottom: 8px;">💻 <b>Front-End Developer</b> focused on <mark style="background: rgba(97, 218, 251, 0.2); color: #61dafb; padding: 2px 6px; border-radius: 4px;"><b>React</b></mark> & <mark style="background: rgba(247, 223, 30, 0.2); color: #f7df1e; padding: 2px 6px; border-radius: 4px;"><b>JavaScript</b></mark></li>
+      <li style="margin-bottom: 8px;">🧠 Building <b>real-world projects</b> 🤖 <i>(Discord bots, interactive web apps)</i></li>
+      <li style="margin-bottom: 8px;">🎯 Improving daily & mastering <b>modern web technologies</b> 📈</li>
+      <li style="margin-bottom: 8px;">📍 Started coding journey in: <mark style="background: rgba(139, 92, 246, 0.2); color: #a78bfa; padding: 2px 6px; border-radius: 4px;"><b>🚀 2024</b></mark></li>
     </ul>
   </div>
 
   <!-- TECH STACK -->
-  <h3 style="margin-bottom: 15px;">🧠 Tech Stack</h3>
+  <h3 style="margin-bottom: 15px;">🚀 Tech Stack 🧠</h3>
   <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 40px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -43,7 +43,7 @@
   <hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;" />
 
   <!-- GITHUB STATS -->
-  <h3 style="margin-bottom: 20px;">📊 GitHub Stats</h3>
+  <h3 style="margin-bottom: 20px;">📊 GitHub Stats 📈</h3>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=Oleksandrishkin&show_icons=true&theme=tokyonight" height="170" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandrishkin&layout=compact&theme=tokyonight" height="170" alt="Languages" />
