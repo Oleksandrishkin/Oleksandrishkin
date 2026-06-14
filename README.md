@@ -31,7 +31,11 @@
 
 ### 🎧 Now Playing (Spotify)
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8B5CF6&bar_color_cover=true" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 
 ---
 
