@@ -16,7 +16,7 @@
 
   <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px; flex-wrap: wrap; margin-bottom: 30px;">
     <img src="https://lanyard.cnrad.dev/api/776490875659354143?theme=dark&animated=true&idleMessage=Coding..." alt="Discord Activity" style="border-radius: 8px; width: 400px; height: 200px" />
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160" alt="Spotify" style="border-radius: 8px;" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160" alt="Spotify" style="border-radius: 8px; height: 100px" />
   </div>
 
   <!-- ABOUT ME -->
