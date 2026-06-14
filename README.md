@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Oleksandr
+# 👋 Hey, I'm Oleksandr1shkin
 
 <img src="https://avatars.githubusercontent.com/YOUR_USERNAME" width="140" style="border-radius: 50%" />
 
@@ -72,18 +72,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oleksandrishkin&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandrishkin&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
 
 
-### 🧩 Fun Section
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-
----
 
 </div>
