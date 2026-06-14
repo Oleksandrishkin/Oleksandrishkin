@@ -18,40 +18,16 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160"/>
 </p>
 
----
 
-### 🌐 Socials
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://discord.com/users/776490875659354143">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://open.spotify.com/user/SPOTIFY_ID">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
----
 
 ### ⚡ About Me
 
-- 💻 Front-End Developer focused on React & Astro  
+- 💻 Front-End Developer focused on React, JS  
 - 🧠 Building real-world projects (Discord bots, web apps)  
-- 🎯 Improving daily and learning Full-Stack development  
+- 🎯 Improving daily and learning Front-End development  
 - 📍 Started coding: **2024**
 
----
 
-### ⏳ Coding Journey
-
-🟣 Time since I started coding:
-
-<img src="https://readme-timer.vercel.app/api?startDate=2024-01-01&label=Days%20Coding" />
-
----
 
 ### 🧠 Tech Stack
 
