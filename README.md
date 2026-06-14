@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://discord.com/users/DISCORD_ID">
+<a href="https://discord.com/users/776490875659354143">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
@@ -78,16 +78,7 @@
 
 </div>
 
----
 
-### 🔥 Current Focus
-
-- Building portfolio with Astro  
-- Improving React skills  
-- Learning backend (Node.js)  
-- Working on real projects (Femida, Discord bots)
-
----
 
 ### 🧩 Fun Section
 
