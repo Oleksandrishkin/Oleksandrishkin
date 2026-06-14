@@ -13,9 +13,9 @@
 ### 💬 Live Activity
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark&bg=1a1b27&borderRadius=10px" height="160"/>
+ <img src="https://lanyard.cnrad.dev/api/776490875659354143?theme=dark&animated=true&idleMessage=Probably%20coding..." height="160"/>
 
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kw6y4qywboxwhwifo3pde3bjz4&cover_image=true&theme=novatorem&bar_color=8B5CF6" height="160"/>
 </p>
 
 
