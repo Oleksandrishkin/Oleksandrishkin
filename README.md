@@ -7,6 +7,9 @@
 ### 🚀 Front-End Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Astro+%7C+Node.js;Building+modern+web+apps;Always+learning+new+things" />
+<img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark" />
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 
 ---
 
@@ -89,14 +92,6 @@
 - Learning backend (Node.js)  
 - Working on real projects (Femida, Discord bots)
 
----
 
-### 🧩 Fun Section
-
-<img src="https://lanyard.cnrad.dev/api/DISCORD_ID?theme=dark" />
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-
----
 
 </div>
